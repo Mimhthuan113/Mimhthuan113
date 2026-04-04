@@ -1,177 +1,205 @@
 <div align="center">
 
-<!-- ✨ Animated Header ✨ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c084fc,50:818cf8,75:6ee7b7,100:34d399&height=250&section=header&text=Minh%20Thu%E1%BA%ADn%20%F0%9F%92%96&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9C%A8%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%E2%9C%A8&descSize=18&descAlignY=55&descColor=fde68a" width="100%"/>
+<!-- ❄️ Winter Header ❄️ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,25:1e3a5f,50:4a90d9,75:87ceeb,100:e0f0ff&height=250&section=header&text=%E2%9D%84%EF%B8%8F%20Minh%20Thu%E1%BA%ADn%20%E2%9D%84%EF%B8%8F&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%98%83%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%F0%9F%8F%94%EF%B8%8F&descSize=18&descAlignY=55&descColor=e0f0ff" width="100%"/>
 
-<!-- 🌸 Cute Typing Animation -->
+<!-- ❄️ Snowflake Typing Animation -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%91%8B+Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Minh+Thu%E1%BA%ADn!;%F0%9F%92%96+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+I+love+coding+%26+building+cool+stuff;%F0%9F%8C%B8+Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%E2%9D%84%EF%B8%8F+Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Minh+Thu%E1%BA%ADn!;%E2%98%83+Welcome+to+my+Winter+Wonderland!;%F0%9F%92%BB+Coding+with+a+cup+of+hot+cocoa+%E2%98%95;%F0%9F%8F%94%EF%B8%8F+Building+cool+stuff+in+the+cold+%F0%9F%A7%A3" alt="Typing SVG" /></a>
 
-<!-- 🎀 Cute Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ❄️ Snowflake Divider -->
+<p>
+<code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code>
+</p>
 
 </div>
 
-<!-- 🌟 About Me -->
+<!-- ☃️ About Me -->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
 
 ```yaml
-🌸 name: Lý Minh Thuận
-💼 role: Full-Stack Developer
+❄️ name: Lý Minh Thuận
+🧣 role: Full-Stack Developer
 🤖 passion: AI & Chatbot Development
 🎓 education: IT Student
 📍 location: Việt Nam 🇻🇳
-🎯 goal: Building meaningful tech solutions
-💭 motto: "Code with love, deploy with confidence 💖"
+☕ fuel: Hot Cocoa & Code
+🏔️ season: Winter Lover ❄️
+💭 motto: "Stay cool, code warm 🧤"
 ```
 
 <br>
 
 - 🔭 Đang phát triển **Web Apps** và **AI Chatbot** 🤖
-- 🌱 Đang học thêm **AI/ML**, **Cloud** và **Microservices** ☁️
+- 🌱 Đang học thêm về **AI/ML**, **Cloud** và **Microservices** ☁️
+- ☕ Code ngon nhất khi có tách ca cao nóng bên cạnh
 - 💬 Hỏi mình về **Java, Node.js, .NET, Python, Vue.js** 🚀
-- 🎨 Thích thiết kế UI/UX đẹp và trải nghiệm người dùng tốt
-- ⚡ Fun fact: Mình có thể code từ sáng tới đêm khi đam mê! 🌙
+- 🎨 Thích thiết kế UI/UX đẹp và trải nghiệm người dùng mượt mà
+- ⚡ Fun fact: Mùa đông là mùa code hiệu quả nhất! 🌙❄️
 
 <br clear="both">
 
-<!-- 🎀 Cute Divider -->
+<!-- ❄️ Divider -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p>
+<code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code>
+</p>
 </div>
 
 ---
 
 <!-- 🛠️ Tech Stack -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+## ❄️ Tech Stack — Kho Vũ Khí Mùa Đông
 
 <div align="center">
 
-### 🌈 Languages I Speak
+### �️ Languages I Speak
 
 <table>
 <tr>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 <br><b>Java</b>
+<br><sub>☕ Ấm áp</sub>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 <br><b>Python</b>
+<br><sub>🐍 Linh hoạt</sub>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
 <br><b>C#</b>
+<br><sub>💎 Mạnh mẽ</sub>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 <br><b>JavaScript</b>
+<br><sub>⚡ Nhanh</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
 <br><b>PHP</b>
+<br><sub>🐘 Bền bỉ</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br><b>HTML5</b>
+<br><sub>🧱 Nền tảng</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
 <br><b>CSS3</b>
+<br><sub>🎨 Sáng tạo</sub>
 </td>
 </tr>
 </table>
 
-### 🚀 Frameworks & Runtime
+### 🏔️ Frameworks & Runtime
 
 <table>
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
 <br><b>Vue.js</b>
+<br><sub>💚 Yêu thích</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
 <br><b>Node.js</b>
+<br><sub>🟢 Server</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
 <br><b>.NET</b>
+<br><sub>🟣 Enterprise</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
 <br><b>Express</b>
+<br><sub>🚂 Backend</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
 <br><b>Spring</b>
+<br><sub>🌿 Robust</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
 <br><b>Bootstrap</b>
+<br><sub>🅱️ Giao diện</sub>
 </td>
 </tr>
 </table>
 
-### 🗄️ Database & DevOps
+### ⛄ Database & DevOps
 
 <table>
 <tr>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 <br><b>MySQL</b>
+<br><sub>🐬 Relational</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
 <br><b>MongoDB</b>
+<br><sub>🍃 NoSQL</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br><b>Docker</b>
+<br><sub>🐳 Container</sub>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 <br><b>GitHub</b>
+<br><sub>🐙 Collab</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br><b>Git</b>
+<br><sub>🔀 Version</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 <br><b>VS Code</b>
+<br><sub>💻 IDE</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 <br><b>Postman</b>
+<br><sub>📮 API Test</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
-<!-- 🎀 Cute Divider -->
+<!-- ❄️ Divider -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p>
+<code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code> <code>🌨️</code> <code>❄️</code> <code>⛄</code> <code>❄️</code>
+</p>
 </div>
 
 ---
 
 <!-- 📊 GitHub Stats -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+## ⛄ GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Mimhthuan113">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mimhthuan113&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=ff6b9d&text_color=c9d1d9&ring_color=c084fc&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mimhthuan113&show_icons=true&theme=icegarden&hide_border=true&bg_color=0b1120&title_color=87ceeb&icon_color=4a90d9&text_color=e0f0ff&ring_color=87ceeb&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/Mimhthuan113">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimhthuan113&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimhthuan113&layout=compact&theme=icegarden&hide_border=true&bg_color=0b1120&title_color=87ceeb&text_color=e0f0ff&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -179,27 +207,27 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mimhthuan113&theme=radical&hide_border=true&background=0d1117&ring=c084fc&fire=ff6b9d&currStreakLabel=c084fc&sideLabels=ff6b9d&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280&stroke=c084fc" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mimhthuan113&hide_border=true&background=0b1120&ring=87ceeb&fire=4a90d9&currStreakLabel=87ceeb&sideLabels=4a90d9&currStreakNum=e0f0ff&sideNums=e0f0ff&dates=6b8dad&stroke=87ceeb" alt="GitHub Streak"/>
 </div>
 
 ---
 
 <!-- 📈 Activity Graph -->
 
-## 📈 Contribution Graph
+## 🌨️ Contribution Snowfall
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimhthuan113&bg_color=0d1117&color=c084fc&line=ff6b9d&point=fde68a&area=true&area_color=c084fc&hide_border=true&custom_title=🌸%20My%20Contribution%20Garden%20🌸" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mimhthuan113&bg_color=0b1120&color=87ceeb&line=4a90d9&point=e0f0ff&area=true&area_color=1e3a5f&hide_border=true&custom_title=%E2%9D%84%EF%B8%8F%20Contribution%20Snowfall%20%E2%9D%84%EF%B8%8F" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
 
 <!-- 🏆 Trophies -->
 
-## � GitHub Trophies
+## 🏆 Winter Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mimhthuan113&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mimhthuan113&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -210,22 +238,22 @@
 
 <div align="center">
 
-|            🎯 Project            |               📝 Description                |          🛠️ Tech Stack           |
+|            ❄️ Project            |               📝 Description                |          🛠️ Tech Stack           |
 | :------------------------------: | :-----------------------------------------: | :------------------------------: |
 | 🤖 **Chatbot Tư Vấn Tuyển Sinh** | AI Chatbot hỗ trợ tư vấn tuyển sinh đại học | `Python` `Vue.js` `Docker` `RAG` |
-|       🚀 _Coming soon..._        |             Đang ấp ủ dự án mới             |         `✨ Stay tuned!`         |
+|       🏔️ _Coming soon..._        |     Đang ấp ủ dự án mới trong mùa đông      |         `✨ Stay tuned!`         |
 
 <br>
 
 <a href="https://github.com/Mimhthuan113?tab=repositories">
-  <img src="https://img.shields.io/badge/🔍_Xem_tất_cả_Repos-c084fc?style=for-the-badge&logoColor=white" alt="View All Repos"/>
+  <img src="https://img.shields.io/badge/❄️_Xem_tất_cả_Repos-4a90d9?style=for-the-badge&logoColor=white" alt="View All Repos"/>
 </a>
 
 </div>
 
 ---
 
-<!-- � Snake Animation -->
+<!-- 🐍 Snake -->
 
 ## 🐍 Contribution Snake
 
@@ -237,18 +265,18 @@
   </picture>
 </div>
 
-> 💡 _Để kích hoạt Snake animation, hãy thêm GitHub Action — xem hướng dẫn bên dưới!_
+> 💡 _Để kích hoạt Snake animation, hãy thêm GitHub Action!_
 
 ---
 
 <!-- 🤝 Connect -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
+## ☃️ Let's Connect — Kết Nối Mùa Đông!
 
 <div align="center">
 
 <a href="https://github.com/Mimhthuan113">
-  <img src="https://img.shields.io/badge/GitHub-Mimhthuan113-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Mimhthuan113-0b1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.facebook.com/tran.quang.trung.954998">
@@ -265,11 +293,11 @@
 
 <br><br>
 
-### 💖 Thank you for visiting my profile!
+### ❄️ Cảm ơn bạn đã ghé thăm profile mùa đông của mình! ❄️
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
 
-**If you like my work, consider giving a ⭐!**
+**Nếu thích, hãy cho mình một ⭐ nhé! Ấm áp lắm 🧣💖**
 
 </div>
 
@@ -278,11 +306,11 @@
 <!-- 👀 Profile Views & Footer -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mimhthuan113&color=c084fc&style=for-the-badge&label=✨+PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mimhthuan113&color=4a90d9&style=for-the-badge&label=❄️+PROFILE+VIEWS)
 
 <br>
 
-<!-- 🌊 Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c084fc,50:818cf8,75:6ee7b7,100:34d399&height=150&section=footer&animation=twinkling" width="100%"/>
+<!-- 🌊 Winter Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f0ff,25:87ceeb,50:4a90d9,75:1e3a5f,100:0b1120&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
