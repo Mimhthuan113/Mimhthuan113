@@ -196,10 +196,10 @@
 <div align="center">
 
 <a href="https://github.com/Mimhthuan113">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mimhthuan113&show_icons=true&theme=icegarden&hide_border=true&bg_color=0b1120&title_color=87ceeb&icon_color=4a90d9&text_color=e0f0ff&ring_color=87ceeb&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mimhthuan113&show_icons=true&hide_border=true&bg_color=0b1120&title_color=87ceeb&icon_color=4a90d9&text_color=e0f0ff&ring_color=87ceeb&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/Mimhthuan113">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimhthuan113&layout=compact&theme=icegarden&hide_border=true&bg_color=0b1120&title_color=87ceeb&text_color=e0f0ff&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mimhthuan113&layout=compact&hide_border=true&bg_color=0b1120&title_color=87ceeb&text_color=e0f0ff&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -227,7 +227,7 @@
 ## 🏆 Winter Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mimhthuan113&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.deno.dev/?username=Mimhthuan113&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
